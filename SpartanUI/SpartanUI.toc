@@ -1,0 +1,81 @@
+## Interface: 20400
+## Title: SpartanUI by Dyaxler
+## Notes: v2.14
+## Version: 2.14
+## Author: Jonathan Woodburn (a.k.a. Atriace/Ansu) - Continued by Dyaxler
+## X-Date: October 9, 2008
+## X-Contributors: Matthew VG (rendered animation bars). Iriel, Guillotine, MentalPower, Drundia, Antiarc, David W (code reference sages) nevcairiel (Bartender3 integration code).  Bartender3 included with permission by nevcairiel.
+## X-Email: ansu@spartanui.com - dyaxler@hotmail.com
+## X-Website: http://www.spartanui.com
+## SavedVariables: SUI_Lang, Adapt_Settings, FEDB, suiData
+## SavedVariablesPerCharacter: SUI_mobLast, SUI_mobXP, SUI_Titan
+## OptionalDeps: MobInfo2, FuBar, Ace3, ButtonFacade, LibKeyBound-1.0
+## X-Embeds: Ace3, LibKeyBound-1.0
+
+# Libraries
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\AceAddon-3.0\AceAddon-3.0.xml
+Libs\AceDB-3.0\AceDB-3.0.xml
+Libs\AceDBOptions-3.0\AceDBOptions-3.0.xml
+Libs\AceEvent-3.0\AceEvent-3.0.xml
+Libs\AceConsole-3.0\AceConsole-3.0.xml
+Libs\AceHook-3.0\AceHook-3.0.xml
+Libs\AceLocale-3.0\AceLocale-3.0.xml
+Libs\AceGUI-3.0\AceGUI-3.0.xml
+Libs\AceConfig-3.0\AceConfig-3.0.xml
+Libs\LibKeyBound-1.0\lib.xml
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+
+# Bartender4
+Modules\Bartender4\Locale\locale.xml
+Modules\Bartender4\Bartender4.lua
+Modules\Bartender4\Options.lua
+Modules\Bartender4\BarPrototype\Bar.xml
+Modules\Bartender4\ButtonBarPrototype\ButtonBar.xml
+Modules\Bartender4\ButtonPrototypes\Buttons.xml
+Modules\Bartender4\ActionBar\ActionBars.xml
+Modules\Bartender4\SpecialBars\SpecialBars.xml
+
+# SpartanUI
+Modules\Adapt\Adapt.lua
+Modules\Adapt\Adapt.xml
+Modules\ClearFont\ClearFont.lua
+Modules\Flare\FilmEffects.lua
+Localization.lua
+SpartanUI.lua
+Font.xml
+SpartanUI.xml
+
+# Libraries (BT3)
+# Libs\AceLibrary\AceLibrary.lua
+# Libs\AceOO-2.0\AceOO-2.0.lua
+# Libs\AceEvent-2.0\AceEvent-2.0.lua
+# Libs\AceAddon-2.0\AceAddon-2.0.lua
+# Libs\AceConsole-2.0\AceConsole-2.0.lua
+# Libs\AceHook-2.1\AceHook-2.1.lua
+# Libs\AceDB-2.0\AceDB-2.0.lua
+# Libs\AceLocale-2.2\AceLocale-2.2.lua
+# Libs\Dewdrop-2.0\Dewdrop-2.0.lua
+# Libs\Tablet-2.0\Tablet-2.0.lua
+# Libs\FuBarPlugin-2.0\FuBarPlugin-2.0.lua
+# Libs\Waterfall-1.0\Waterfall-1.0.lua
+# Libs\StickyFrames\StickyFrames.lua
+
+# Bartender3
+# Modules\Bartender3\Locales\Bartender3-enUS.lua
+# Modules\Bartender3\Locales\Bartender3-frFR.lua
+# Modules\Bartender3\Locales\Bartender3-deDE.lua
+# Modules\Bartender3\Locales\Bartender3-koKR.lua
+# Modules\Bartender3\Locales\Bartender3-esES.lua
+# Modules\Bartender3\Locales\Bartender3-zhTW.lua
+# Modules\Bartender3\Locales\Bartender3-zhCN.lua
+# Modules\Bartender3\Bartender3.lua
+# Modules\Bartender3\Options.lua
+# Modules\Bartender3\Defaults.lua
+# Modules\Bartender3\Style.lua
+# Modules\Bartender3\Bar.lua
+# Modules\Bartender3\ActionBar.lua
+# Modules\Bartender3\ActionBarStates.lua
+# Modules\Bartender3\SpecialBar.lua
+# Modules\Bartender3\Button.lua

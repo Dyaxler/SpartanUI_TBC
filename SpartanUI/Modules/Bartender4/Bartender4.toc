@@ -1,0 +1,28 @@
+﻿## Interface: 20400
+## Notes-ruRU: Простой и усовершенствованный - Аддон паненей команд Бармен4 
+## Notes: Simple and Advanced combined - Bartender4 ActionBar AddOn
+## Title: Bartender4
+## Author: Nevcairiel
+## SavedVariables: Bartender4DB
+## OptionalDeps: Ace3, ButtonFacade, LibKeyBound-1.0
+## X-Embeds: Ace3, LibKeyBound-1.0
+## X-Category: Action Bars
+## Version: 4.0
+
+embeds.xml
+libs\LibDataBroker-1.1.lua
+
+locale\locale.xml
+
+## Core ##
+Bartender4.lua
+Options.lua
+
+## Prototypes ##
+barPrototype\Bar.xml
+buttonBarPrototype\ButtonBar.xml
+buttonPrototypes\Buttons.xml
+
+## Modules ##
+actionBar\ActionBars.xml
+specialBars\SpecialBars.xml

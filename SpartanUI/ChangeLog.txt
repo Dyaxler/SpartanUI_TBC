@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------------------------------------------------------
+
+v2.14:
+* Initial release
+
+* The original release for SpartanUI for TBC v 2.4.3 included Bartender3. I've upgraded it to use
+  Bartender4.
+
+* I have incorporated my version of Adapt along with the code base I used for the Vanilla client.
+  It contains several fixes.
+
+* ClearFont was added to the pack because the default fonts are just ugly.
+
+* I've included my MobInfo2 database with this release. Although it might not be needed since TBC
+  now allows you to querry the for mob health.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+eof
