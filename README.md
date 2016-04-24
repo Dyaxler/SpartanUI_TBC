@@ -1,6 +1,6 @@
 # SpartanUI
 
-Welcome to SpartanUI for The Burning Crusade WoW 2.4.5 - originally written by Ansu.
+Welcome to SpartanUI for The Burning Crusade WoW 2.4.3 - originally written by Ansu.
 
 This is a custom version based on my backport of SpartainUI_Vanilla available here: https://github.com/Dyaxler/SpartanUI_Vanilla. The biggest change is that I've updated it to use Bartender 4 as opposed to Bartender 3. Tons of code fixes and tweaks were updated in this version of the classic SpartanUI. Please report any issues you have with this version here on GitHub.
 
